@@ -10,7 +10,10 @@ Asegúrate de tener instalado lo siguiente:
 - [MySQL](https://dev.mysql.com/downloads/installer/) 🐬
 
 ## Configuración
-
+# Para construir el proyecto
+- dotnet build
+# Para correr el proyecto
+- dotnet run
 
 ## 📚 API Endpoints
 - Registro de Usuario: POST /api/users/register
