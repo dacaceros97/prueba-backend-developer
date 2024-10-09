@@ -16,14 +16,19 @@ Asegúrate de tener instalado lo siguiente:
 - dotnet run
 
 ## 📚 API Endpoints
-- Registro de Usuario: POST /api/users/register
-- Autenticación de Usuario: POST /api/users/authenticate
-- Gestión de Departamentos:
+- Registro: POST /api/auth/register
+- Login: POST /api/auth/login
+### Gestión de Usuarios:
+- Obtener todos: GET /api/users
+- Crear: POST /api/users
+- Actualizar: PUT /api/users/{id}
+- Eliminar: DELETE /api/users/{id}
+### Gestión de Departamentos:
 - Obtener todos: GET /api/departments
 - Crear: POST /api/departments
 - Actualizar: PUT /api/departments/{id}
 - Eliminar: DELETE /api/departments/{id}
-- Gestión de Proyectos:
+### Gestión de Proyectos:
 - Obtener todos: GET /api/projects
 - Crear: POST /api/projects
 - Actualizar: PUT /api/projects/{id}
