@@ -10,9 +10,9 @@ Asegúrate de tener instalado lo siguiente:
 - [MySQL](https://dev.mysql.com/downloads/installer/) 🐬
 
 ## Configuración
-# Para construir el proyecto
+### Para construir el proyecto
 - dotnet build
-# Para correr el proyecto
+### Para correr el proyecto
 - dotnet run
 
 ## 📚 API Endpoints
