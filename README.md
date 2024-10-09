@@ -12,16 +12,16 @@ Asegúrate de tener instalado lo siguiente:
 ## Configuración
 
 
-📚 API Endpoints
-Registro de Usuario: POST /api/users/register
-Autenticación de Usuario: POST /api/users/authenticate
-Gestión de Departamentos:
-Obtener todos: GET /api/departments
-Crear: POST /api/departments
-Actualizar: PUT /api/departments/{id}
-Eliminar: DELETE /api/departments/{id}
-Gestión de Proyectos:
-Obtener todos: GET /api/projects
-Crear: POST /api/projects
-Actualizar: PUT /api/projects/{id}
-Eliminar: DELETE /api/projects/{id}
+## 📚 API Endpoints
+- Registro de Usuario: POST /api/users/register
+- Autenticación de Usuario: POST /api/users/authenticate
+- Gestión de Departamentos:
+- Obtener todos: GET /api/departments
+- Crear: POST /api/departments
+- Actualizar: PUT /api/departments/{id}
+- Eliminar: DELETE /api/departments/{id}
+- Gestión de Proyectos:
+- Obtener todos: GET /api/projects
+- Crear: POST /api/projects
+- Actualizar: PUT /api/projects/{id}
+- Eliminar: DELETE /api/projects/{id}
